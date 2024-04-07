@@ -1,0 +1,2863 @@
+[
+    {
+        "id": "4020beeb4fa35d72",
+        "type": "tab",
+        "label": "CDN-AT",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "41d31b3f2b597507",
+        "type": "tab",
+        "label": "Wetterstation Rebstein",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "8bc0733bd2e3a96f",
+        "type": "tab",
+        "label": "Weathermap",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "1f5402aaad6b33ec",
+        "type": "tab",
+        "label": "CDN Dornbirn",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "6f4761f385c7a572",
+        "type": "group",
+        "z": "4020beeb4fa35d72",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "d372ff4fd737463b",
+            "041928565428b650",
+            "76e2159244417df8",
+            "42adc0e8bd278698",
+            "28339d4cc832b6dc",
+            "00fccf7f3fbbc0c0"
+        ],
+        "x": 74,
+        "y": 379,
+        "w": 632,
+        "h": 262
+    },
+    {
+        "id": "704fb09150d6f7d8",
+        "type": "group",
+        "z": "4020beeb4fa35d72",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "0e53899616718d28",
+            "c126329dc8d2eb4f",
+            "8d488aec88950ceb",
+            "6648571f6eb26303",
+            "5f186784ff332351",
+            "9fbf4a13899a9314",
+            "8df4a1f0344ab7a6",
+            "f07109477d65500b",
+            "f51f2768753da105",
+            "c0043f80be6fcaa3"
+        ],
+        "x": 134,
+        "y": 59,
+        "w": 872,
+        "h": 322
+    },
+    {
+        "id": "a23d032073324366",
+        "type": "group",
+        "z": "41d31b3f2b597507",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "a0aa6d1bebceb83f",
+            "56c4828546cc5be1",
+            "c782eeaf194d0bbf",
+            "dae3ce392c4f58f5",
+            "4243abb0141ac6a6",
+            "ec84ac1fbb399c73",
+            "c301d7cae13ab853"
+        ],
+        "x": 694,
+        "y": 279,
+        "w": 332,
+        "h": 362
+    },
+    {
+        "id": "700431c0f25f1dd6",
+        "type": "group",
+        "z": "1f5402aaad6b33ec",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "596acd2edb2a7999",
+            "187177def4df8e41",
+            "b74cb0c79d699367",
+            "abf2be406058a518",
+            "ad8d408bdd6d3daa",
+            "77a150502b0fd4d8",
+            "3824f6b4836e96e9"
+        ],
+        "x": 434,
+        "y": 39,
+        "w": 252,
+        "h": 322
+    },
+    {
+        "id": "fdbf9db122915c50",
+        "type": "group",
+        "z": "1f5402aaad6b33ec",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "71f2133f9ed72421",
+            "27d55c4553c2eaf8",
+            "bb626325ab6bac33",
+            "b66fe5888fdcbd2f",
+            "34624b7e73d3e93b",
+            "65eeefeb30a632a3",
+            "ba9a997ba99fc616",
+            "14b58b4d482cc0e2"
+        ],
+        "x": 274,
+        "y": 379,
+        "w": 432,
+        "h": 342
+    },
+    {
+        "id": "60af27fbe2dcd6b9",
+        "type": "group",
+        "z": "8bc0733bd2e3a96f",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "1079871569b441ec",
+            "d0b691bd3cd1fe2e",
+            "efe9d6e5ab1eea52",
+            "e711aee13179e534",
+            "44bb483a39897dea",
+            "7ba64f540b7ec487"
+        ],
+        "x": 334,
+        "y": 159,
+        "w": 192,
+        "h": 282
+    },
+    {
+        "id": "0940d0a25cbaf43e",
+        "type": "group",
+        "z": "8bc0733bd2e3a96f",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "33699b2c056d3d8e",
+            "e2325500109c971d",
+            "14938a816cc46ca0",
+            "b99f656e30a5af6d"
+        ],
+        "x": 334,
+        "y": 499,
+        "w": 192,
+        "h": 202
+    },
+    {
+        "id": "7a65ceefe02be511",
+        "type": "mqtt-broker",
+        "name": "Mosquitto",
+        "broker": "beker.club",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "753289f5a355c83f",
+        "type": "MySQLdatabase",
+        "name": "",
+        "host": "beker.club",
+        "port": "3306",
+        "db": "WetterCDN",
+        "tz": "Europe/Berlin",
+        "charset": "UTF8"
+    },
+    {
+        "id": "7c450221a2b1a6f6",
+        "type": "mqtt-broker",
+        "name": "pico rebstein",
+        "broker": "beker.club",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "15c84cb09c997e75",
+        "type": "ui_tab",
+        "name": "Wetter in Rebstein",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "7e461ef3b8cee4fd",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-dark",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "Lucida Sans Typewriter,Lucida Console,Monaco,monospace",
+                "edited": true,
+                "reset": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#097479",
+                    "value": "#097479",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#097479",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#0eb8c0",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#555555",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#eeeeee",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#097479",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "Lucida Sans Typewriter,Lucida Console,Monaco,monospace"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD.MM.YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "55f7f0c1a0b2eb48",
+        "type": "ui_group",
+        "name": "Aktuelle Werte",
+        "tab": "15c84cb09c997e75",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": true,
+        "className": ""
+    },
+    {
+        "id": "2a03492025b0a7d0",
+        "type": "ui_group",
+        "name": "Verlauf",
+        "tab": "15c84cb09c997e75",
+        "order": 2,
+        "disp": true,
+        "width": 6,
+        "collapse": true,
+        "className": ""
+    },
+    {
+        "id": "04b2a598792bf30c",
+        "type": "ui_tab",
+        "name": "Open Weather Map Wetter aus dem Internet",
+        "icon": "dashboard",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "b24e1031529d892e",
+        "type": "ui_group",
+        "name": "Aktuell",
+        "tab": "4fa9853e9d87a97e",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "adcd52e03eaf926b",
+        "type": "ui_group",
+        "name": "Verlauf",
+        "tab": "04b2a598792bf30c",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "4fa9853e9d87a97e",
+        "type": "ui_tab",
+        "name": "Dornbirn CDN",
+        "icon": "dashboard",
+        "order": 3,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "33bc0abd04b4b4db",
+        "type": "ui_group",
+        "name": "Verlauf",
+        "tab": "4fa9853e9d87a97e",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "6673737cdfac0258",
+        "type": "ui_group",
+        "name": "Aktuell",
+        "tab": "04b2a598792bf30c",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "07f72b68a61aafdd",
+        "type": "ui_group",
+        "name": "Rebstein",
+        "tab": "15c84cb09c997e75",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "4cfab19918637246",
+        "type": "ui_link",
+        "name": "HQ Dashboard Rebstein",
+        "link": "https://wetter.beker.club/d/be639875-08e7-44d4-a65f-673953a21298/wetter-osterreich?orgId=1&refresh=10s",
+        "icon": "open_in_browser",
+        "target": "newtab",
+        "order": 4
+    },
+    {
+        "id": "0e53899616718d28",
+        "type": "http request",
+        "z": "4020beeb4fa35d72",
+        "g": "704fb09150d6f7d8",
+        "name": "CDN-API",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://cdn3.techweb.at/api/weather/at/data?wst=all&format=json",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 360,
+        "y": 140,
+        "wires": [
+            [
+                "6648571f6eb26303"
+            ]
+        ]
+    },
+    {
+        "id": "c126329dc8d2eb4f",
+        "type": "debug",
+        "z": "4020beeb4fa35d72",
+        "g": "704fb09150d6f7d8",
+        "name": "debug 2",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 900,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "8d488aec88950ceb",
+        "type": "inject",
+        "z": "4020beeb4fa35d72",
+        "g": "704fb09150d6f7d8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "0 0-23 * * *",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 250,
+        "y": 200,
+        "wires": [
+            [
+                "0e53899616718d28"
+            ]
+        ]
+    },
+    {
+        "id": "6648571f6eb26303",
+        "type": "json",
+        "z": "4020beeb4fa35d72",
+        "g": "704fb09150d6f7d8",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": true,
+        "x": 430,
+        "y": 200,
+        "wires": [
+            [
+                "5f186784ff332351",
+                "f51f2768753da105",
+                "c126329dc8d2eb4f"
+            ]
+        ]
+    },
+    {
+        "id": "5f186784ff332351",
+        "type": "split",
+        "z": "4020beeb4fa35d72",
+        "g": "704fb09150d6f7d8",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 510,
+        "y": 260,
+        "wires": [
+            [
+                "9fbf4a13899a9314",
+                "c126329dc8d2eb4f"
+            ]
+        ]
+    },
+    {
+        "id": "9fbf4a13899a9314",
+        "type": "split",
+        "z": "4020beeb4fa35d72",
+        "g": "704fb09150d6f7d8",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 650,
+        "y": 260,
+        "wires": [
+            [
+                "f07109477d65500b"
+            ]
+        ]
+    },
+    {
+        "id": "8df4a1f0344ab7a6",
+        "type": "mysql",
+        "z": "4020beeb4fa35d72",
+        "g": "704fb09150d6f7d8",
+        "mydb": "753289f5a355c83f",
+        "name": "WetterCDN",
+        "x": 770,
+        "y": 340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f07109477d65500b",
+        "type": "function",
+        "z": "4020beeb4fa35d72",
+        "g": "704fb09150d6f7d8",
+        "name": "CDNExtraction",
+        "func": "// Assuming unixTime is the Unix time in milliseconds\nfunction unixTimeToSQLTimestamp(unixTime) {\n    // Create a new Date object using the Unix time\n    const date = new Date(unixTime);\n\n    // Extract year, month, day, hour, minute, and second components\n    const year = date.getFullYear();\n    const month = String(date.getMonth() + 1).padStart(2, '0');\n    const day = String(date.getDate()).padStart(2, '0');\n    const hours = String(date.getHours()).padStart(2, '0');\n    const minutes = String(date.getMinutes()).padStart(2, '0');\n    const seconds = String(date.getSeconds()).padStart(2, '0');\n\n    // Format the SQL timestamp\n    const sqlTimestamp = `${year}-${month}-${day} ${hours}:${minutes}:${seconds}`;\n\n    return sqlTimestamp;\n}\nfunction convert_to_sql_timestamp(date_str) {\n    // Split the date string into its components.\n    const date_parts = date_str.split(\", \");\n    const date = date_parts[0].split(\".\");\n    const time = date_parts[1].split(\":\");\n\n    // Create a JavaScript Date object from the components.\n    const dt = new Date(date[2], date[1] - 1, date[0], time[0], time[1]);\n\n    // Convert the JavaScript Date object to a SQL timestamp string.\n    return dt.toISOString().slice(0, 19).replace('T', ' ');\n}\n\nfunction replaceHtmlUmlauts(htmlString) {\n    // Define a map of HTML entities and their corresponding UTF-8 characters\n    const umlautMap = {\n        \"&auml;\": \"ä\",\n        \"&Auml;\": \"Ä\",\n        \"&ouml;\": \"ö\",\n        \"&Ouml;\": \"Ö\",\n        \"&uuml;\": \"ü\",\n        \"&Uuml;\": \"Ü\",\n        \"&szlig;\": \"ß\"\n        // Add more entities and corresponding characters as needed\n    };\n\n    // Replace each HTML entity with its corresponding character\n    for (let entity in umlautMap) {\n        const regex = new RegExp(entity, \"g\");\n        htmlString = htmlString.replace(regex, umlautMap[entity]);\n    }\n\n    return htmlString;\n}\n\nmsg.topic = \"INSERT INTO `WetterÖsterreich`(`location`, `state`,`altitude`, `temperature`, `humidity`, `wind_speed`, `wind_direction`,`windpeak`, `raindown`, `sun`, `airpressure`, `airpressure_trend`, `weather_time`, `weather_timestamp`) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?)\";\nmsg.payload = [msg.payload.location,\nreplaceHtmlUmlauts(msg.payload.state),\nmsg.payload.altitude,\nmsg.payload.temperature,\nmsg.payload.humidity,\nmsg.payload.wind_speed,\nmsg.payload.wind_direction,\nmsg.payload.windpeak,\nmsg.payload.raindown,\nmsg.payload.sun,\nmsg.payload.airpressure,\nmsg.payload.airpressure_trend,\nconvert_to_sql_timestamp(msg.payload.weather_time),\nunixTimeToSQLTimestamp(msg.payload.weather_timestamp * 1000)\n\n];\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 340,
+        "wires": [
+            [
+                "8df4a1f0344ab7a6"
+            ]
+        ]
+    },
+    {
+        "id": "d372ff4fd737463b",
+        "type": "mqtt in",
+        "z": "4020beeb4fa35d72",
+        "g": "6f4761f385c7a572",
+        "name": "",
+        "topic": "qualtinger/devices/me/telemetry",
+        "qos": "1",
+        "datatype": "auto-detect",
+        "broker": "7a65ceefe02be511",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 250,
+        "y": 520,
+        "wires": [
+            [
+                "76e2159244417df8",
+                "42adc0e8bd278698"
+            ]
+        ]
+    },
+    {
+        "id": "041928565428b650",
+        "type": "mysql",
+        "z": "4020beeb4fa35d72",
+        "g": "6f4761f385c7a572",
+        "mydb": "753289f5a355c83f",
+        "name": "WetterRebstein",
+        "x": 600,
+        "y": 600,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "76e2159244417df8",
+        "type": "function",
+        "z": "4020beeb4fa35d72",
+        "g": "6f4761f385c7a572",
+        "name": "RebsteinExtraction",
+        "func": "// Assuming unixTime is the Unix time in milliseconds\nfunction unixTimeToSQLTimestamp(unixTime) {\n    // Create a new Date object using the Unix time\n    const date = new Date(unixTime);\n\n    // Extract year, month, day, hour, minute, and second components\n    const year = date.getFullYear();\n    const month = String(date.getMonth() + 1).padStart(2, '0');\n    const day = String(date.getDate()).padStart(2, '0');\n    const hours = String(date.getHours()).padStart(2, '0');\n    const minutes = String(date.getMinutes()).padStart(2, '0');\n    const seconds = String(date.getSeconds()).padStart(2, '0');\n\n    // Format the SQL timestamp\n    const sqlTimestamp = `${year}-${month}-${day} ${hours}:${minutes}:${seconds}`;\n\n    return sqlTimestamp;\n}\nfunction convert_to_sql_timestamp(date_str) {\n    // Split the date string into its components.\n    const date_parts = date_str.split(\", \");\n    const date = date_parts[0].split(\".\");\n    const time = date_parts[1].split(\":\");\n\n    // Create a JavaScript Date object from the components.\n    const dt = new Date(date[2], date[1] - 1, date[0], time[0], time[1]);\n\n    // Convert the JavaScript Date object to a SQL timestamp string.\n    return dt.toISOString().slice(0, 19).replace('T', ' ');\n}\n\nfunction replaceHtmlUmlauts(htmlString) {\n    // Define a map of HTML entities and their corresponding UTF-8 characters\n    const umlautMap = {\n        \"&auml;\": \"ä\",\n        \"&Auml;\": \"Ä\",\n        \"&ouml;\": \"ö\",\n        \"&Ouml;\": \"Ö\",\n        \"&uuml;\": \"ü\",\n        \"&Uuml;\": \"Ü\",\n        \"&szlig;\": \"ß\"\n        // Add more entities and corresponding characters as needed\n    };\n\n    // Replace each HTML entity with its corresponding character\n    for (let entity in umlautMap) {\n        const regex = new RegExp(entity, \"g\");\n        htmlString = htmlString.replace(regex, umlautMap[entity]);\n    }\n\n    return htmlString;\n}\n\nmsg.topic = \"INSERT INTO `WetterRebstein` (`temperature`, `humidity`, `pressure`, `light`, `frequency`, `duty`, `proctemp`, led) VALUES(?, ?, ?, ?, ?,?, ?, ?);\"\nmsg.payload = [\nmsg.payload.roomtemp-1.4,\nmsg.payload.humidity,\nmsg.payload.pressure,\nmsg.payload.light,\nmsg.payload.pwmfreq,\nmsg.payload.duty,\nmsg.payload.proctemp,\nmsg.payload.intled,\n];\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 510,
+        "y": 520,
+        "wires": [
+            [
+                "00fccf7f3fbbc0c0"
+            ]
+        ]
+    },
+    {
+        "id": "42adc0e8bd278698",
+        "type": "link out",
+        "z": "4020beeb4fa35d72",
+        "g": "6f4761f385c7a572",
+        "name": "Nach Wetter Rebstein",
+        "mode": "link",
+        "links": [
+            "2e3eac86b5d75c8b"
+        ],
+        "x": 585,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "f51f2768753da105",
+        "type": "link out",
+        "z": "4020beeb4fa35d72",
+        "g": "704fb09150d6f7d8",
+        "name": "Nach Wetter CDN",
+        "mode": "link",
+        "links": [
+            "d847b4f46af2d213"
+        ],
+        "x": 745,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "28339d4cc832b6dc",
+        "type": "comment",
+        "z": "4020beeb4fa35d72",
+        "g": "6f4761f385c7a572",
+        "name": "Connection from MQTT Server with Data from Rebstein",
+        "info": "",
+        "x": 300,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "c0043f80be6fcaa3",
+        "type": "comment",
+        "z": "4020beeb4fa35d72",
+        "g": "704fb09150d6f7d8",
+        "name": "Data from CDN API in Json Format",
+        "info": "",
+        "x": 300,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "00fccf7f3fbbc0c0",
+        "type": "delay",
+        "z": "4020beeb4fa35d72",
+        "g": "6f4761f385c7a572",
+        "name": "",
+        "pauseType": "rate",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "2",
+        "nbRateUnits": "1",
+        "rateUnits": "minute",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": true,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 360,
+        "y": 600,
+        "wires": [
+            [
+                "041928565428b650"
+            ]
+        ]
+    },
+    {
+        "id": "cf54b55efccafc0d",
+        "type": "mqtt out",
+        "z": "41d31b3f2b597507",
+        "name": "LED",
+        "topic": "qualtinger/devices/me/command",
+        "qos": "0",
+        "retain": "false",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "7c450221a2b1a6f6",
+        "x": 950,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "76930226f33de135",
+        "type": "ui_switch",
+        "z": "41d31b3f2b597507",
+        "name": "LED",
+        "label": "LED",
+        "tooltip": "",
+        "group": "55f7f0c1a0b2eb48",
+        "order": 10,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "{\"intled\": 1}",
+        "onvalueType": "str",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "{\"intled\": 0}",
+        "offvalueType": "str",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 510,
+        "y": 760,
+        "wires": [
+            [
+                "cf54b55efccafc0d"
+            ]
+        ]
+    },
+    {
+        "id": "ecbf76c98cbea256",
+        "type": "ui_gauge",
+        "z": "41d31b3f2b597507",
+        "name": "",
+        "group": "55f7f0c1a0b2eb48",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Raumtemperatur",
+        "label": "°C",
+        "format": "{{msg.payload.roomtemp-2}}",
+        "min": "10",
+        "max": "35",
+        "colors": [
+            "#1500b3",
+            "#00e682",
+            "#d21919"
+        ],
+        "seg1": "19",
+        "seg2": "23",
+        "diff": false,
+        "className": "",
+        "x": 710,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "d1c2607bd6357f99",
+        "type": "ui_gauge",
+        "z": "41d31b3f2b597507",
+        "name": "",
+        "group": "55f7f0c1a0b2eb48",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Feuchtigkeit",
+        "label": "%",
+        "format": "{{msg.payload.humidity}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#eef202",
+            "#26e600",
+            "#3c3acb"
+        ],
+        "seg1": "30",
+        "seg2": "60",
+        "className": "",
+        "x": 730,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "d56ee9991ea77037",
+        "type": "ui_gauge",
+        "z": "41d31b3f2b597507",
+        "name": "",
+        "group": "55f7f0c1a0b2eb48",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Luftdruck",
+        "label": "hPa",
+        "format": "{{ msg.payload }}",
+        "min": "1010",
+        "max": "1030",
+        "colors": [
+            "#000cb3",
+            "#067c04",
+            "#f5e105"
+        ],
+        "seg1": "1013",
+        "seg2": "1018",
+        "className": "",
+        "x": 740,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "a22ead9639139b7b",
+        "type": "ui_gauge",
+        "z": "41d31b3f2b597507",
+        "name": "",
+        "group": "55f7f0c1a0b2eb48",
+        "order": 7,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Prozessortemperatur",
+        "label": "°C",
+        "format": "{{ msg.payload.proctemp}}",
+        "min": "20",
+        "max": "50",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "30",
+        "seg2": "40",
+        "diff": false,
+        "className": "",
+        "x": 780,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "6ca125a8b3eb7a2c",
+        "type": "ui_gauge",
+        "z": "41d31b3f2b597507",
+        "name": "",
+        "group": "55f7f0c1a0b2eb48",
+        "order": 6,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Taupunkt",
+        "label": "°C",
+        "format": "{{msg.payload.dewpoint}}",
+        "min": 0,
+        "max": "20",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 740,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "a0aa6d1bebceb83f",
+        "type": "ui_chart",
+        "z": "41d31b3f2b597507",
+        "g": "a23d032073324366",
+        "name": "",
+        "group": "2a03492025b0a7d0",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "label": "Luftdruck hPa",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "24",
+        "removeOlderPoints": "2000",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 840,
+        "y": 480,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "56c4828546cc5be1",
+        "type": "ui_chart",
+        "z": "41d31b3f2b597507",
+        "g": "a23d032073324366",
+        "name": "",
+        "group": "2a03492025b0a7d0",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "label": "Feuchtigkeit %",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "24",
+        "removeOlderPoints": "2000",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 840,
+        "y": 520,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c782eeaf194d0bbf",
+        "type": "ui_chart",
+        "z": "41d31b3f2b597507",
+        "g": "a23d032073324366",
+        "name": "",
+        "group": "2a03492025b0a7d0",
+        "order": 8,
+        "width": 0,
+        "height": 0,
+        "label": "Alle Temperaturen °C",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "24",
+        "removeOlderPoints": "2000",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 820,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "dae3ce392c4f58f5",
+        "type": "ui_chart",
+        "z": "41d31b3f2b597507",
+        "g": "a23d032073324366",
+        "name": "",
+        "group": "2a03492025b0a7d0",
+        "order": 7,
+        "width": 0,
+        "height": 0,
+        "label": "Prozessor Temperatur",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "24",
+        "removeOlderPoints": "2000",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 820,
+        "y": 440,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5a51b334c9d6655a",
+        "type": "ui_button",
+        "z": "41d31b3f2b597507",
+        "name": "",
+        "group": "2a03492025b0a7d0",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Löschen",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "[]",
+        "payloadType": "json",
+        "topic": "payload",
+        "topicType": "msg",
+        "x": 540,
+        "y": 460,
+        "wires": [
+            [
+                "dae3ce392c4f58f5",
+                "a0aa6d1bebceb83f",
+                "56c4828546cc5be1",
+                "c782eeaf194d0bbf",
+                "4243abb0141ac6a6",
+                "ec84ac1fbb399c73"
+            ]
+        ]
+    },
+    {
+        "id": "5aad82e53c1e3c7f",
+        "type": "ui_text",
+        "z": "41d31b3f2b597507",
+        "group": "55f7f0c1a0b2eb48",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Uhrzeit",
+        "format": "{{payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": "",
+        "color": "#000000",
+        "x": 280,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "c785ae23d8267b8f",
+        "type": "function",
+        "z": "41d31b3f2b597507",
+        "name": "ZeitString",
+        "func": "msg.payload = new Date().toLocaleTimeString('de-CH', { timeZone: \"Europe/Budapest\" })\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 150,
+        "y": 160,
+        "wires": [
+            [
+                "5aad82e53c1e3c7f",
+                "7c4ba9f641b4eb22"
+            ]
+        ]
+    },
+    {
+        "id": "2af068d5a1fef1ce",
+        "type": "function",
+        "z": "41d31b3f2b597507",
+        "name": "Json Splitter",
+        "func": "var msg1 = {};\nvar msg2 = { };\nvar msg3 = {  };\nvar msg4 = { };\nvar msg5 = {};\nvar msg6 = {};\n\nmsg1.payload = msg.payload.roomtemp -2;\nmsg1.topic = \"Umgebungstemperatur\";\n\nmsg2.payload = msg.payload.dewpoint;\nmsg2.topic = \"Taupunkt\";\n\nmsg3.payload = msg.payload.proctemp;\nmsg3.topic = \"Processor\";\n\nmsg4.payload = msg4.payload = Math.round((msg.payload.pressure + 4100 / 83) * 100) / 100;;\nmsg4.topic = \"Luftdruck\"; \n\nmsg5.payload = msg.payload.humidity;\nmsg5.topic = \"Feuchtigkeit\";\n\n\nvar ADC = msg.payload.light\nvar widerstand = ADC / (4096 - ADC) * 10000;\nvar leitwert = Math.log(Math.round((1 / widerstand) * 1e7) / 10);\nmsg6.payload = leitwert;\nmsg6.topic = \"Licht\"\n\nreturn [msg1,msg2,msg3,msg4,msg5,msg6];",
+        "outputs": 6,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 360,
+        "wires": [
+            [
+                "c782eeaf194d0bbf",
+                "ec84ac1fbb399c73"
+            ],
+            [
+                "c782eeaf194d0bbf",
+                "ec84ac1fbb399c73"
+            ],
+            [
+                "c782eeaf194d0bbf",
+                "dae3ce392c4f58f5"
+            ],
+            [
+                "a0aa6d1bebceb83f"
+            ],
+            [
+                "56c4828546cc5be1"
+            ],
+            [
+                "4243abb0141ac6a6"
+            ]
+        ],
+        "outputLabels": [
+            "temp",
+            "dewpoint",
+            "proctemp",
+            "pressure",
+            "humidity",
+            "light"
+        ]
+    },
+    {
+        "id": "de6549beb6abfbdb",
+        "type": "function",
+        "z": "41d31b3f2b597507",
+        "name": "Umrechnen Seehöhe/Leitwert",
+        "func": "\nvar msg1 = {};\nmsg1.payload = Math.round (( msg.payload.pressure + 4100 / 83)*100)/100;\nmsg1.topic = \"Luftdruck\"; \n\nvar msg2 = {};\nvar ADC  = msg.payload.light\nvar widerstand= ADC / (4096 - ADC) * 10000;\nvar leitwert = Math.round((1/widerstand)*1e7)/10;\nmsg2.payload = leitwert;\nmsg2.topic = \"Licht\";\n\nreturn [msg1,msg2];",
+        "outputs": 2,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 510,
+        "y": 260,
+        "wires": [
+            [
+                "d56ee9991ea77037"
+            ],
+            [
+                "ffc970896cc897f6"
+            ]
+        ],
+        "outputLabels": [
+            "pressure",
+            "Leitwert"
+        ]
+    },
+    {
+        "id": "ffc970896cc897f6",
+        "type": "ui_gauge",
+        "z": "41d31b3f2b597507",
+        "name": "",
+        "group": "55f7f0c1a0b2eb48",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Licht",
+        "label": "µSiemens",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "1200",
+        "colors": [
+            "#0b0326",
+            "#d87f03",
+            "#eaed07"
+        ],
+        "seg1": "30",
+        "seg2": "60",
+        "className": "",
+        "x": 810,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "4243abb0141ac6a6",
+        "type": "ui_chart",
+        "z": "41d31b3f2b597507",
+        "g": "a23d032073324366",
+        "name": "",
+        "group": "2a03492025b0a7d0",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "label": "Licht log(µSiemens)",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "24",
+        "removeOlderPoints": "2000",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 830,
+        "y": 560,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f01ad233e999ddb0",
+        "type": "ui_slider",
+        "z": "41d31b3f2b597507",
+        "name": "",
+        "label": "DutyCycle",
+        "tooltip": "",
+        "group": "55f7f0c1a0b2eb48",
+        "order": 8,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "outs": "end",
+        "topic": "topic",
+        "topicType": "msg",
+        "min": 0,
+        "max": "100",
+        "step": 1,
+        "className": "",
+        "x": 390,
+        "y": 660,
+        "wires": [
+            [
+                "9b90bfc42f4d4f8b"
+            ]
+        ]
+    },
+    {
+        "id": "cdb5ab1e5eba83d9",
+        "type": "mqtt out",
+        "z": "41d31b3f2b597507",
+        "name": "",
+        "topic": "qualtinger/devices/me/command",
+        "qos": "",
+        "retain": "true",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "7c450221a2b1a6f6",
+        "x": 860,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "9b90bfc42f4d4f8b",
+        "type": "function",
+        "z": "41d31b3f2b597507",
+        "name": "Dutycycle in JSON",
+        "func": "msg.payload= '{ \"duty\": ' + Math.round(msg.payload/100.0*65535) + \"}\"; \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 590,
+        "y": 660,
+        "wires": [
+            [
+                "cdb5ab1e5eba83d9"
+            ]
+        ]
+    },
+    {
+        "id": "418bfc3ec9cc0123",
+        "type": "ui_slider",
+        "z": "41d31b3f2b597507",
+        "name": "",
+        "label": "PWMFrequency",
+        "tooltip": "",
+        "group": "55f7f0c1a0b2eb48",
+        "order": 9,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "outs": "end",
+        "topic": "topic",
+        "topicType": "msg",
+        "min": "8",
+        "max": "100000",
+        "step": 1,
+        "className": "",
+        "x": 360,
+        "y": 700,
+        "wires": [
+            [
+                "2fcd12f8ef121c1b"
+            ]
+        ]
+    },
+    {
+        "id": "2fcd12f8ef121c1b",
+        "type": "function",
+        "z": "41d31b3f2b597507",
+        "name": "PWMFreq in JSON",
+        "func": "msg.payload= '{ \"pwmfreq\": ' + msg.payload + \"}\"; \nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 590,
+        "y": 700,
+        "wires": [
+            [
+                "cdb5ab1e5eba83d9"
+            ]
+        ]
+    },
+    {
+        "id": "e628625056c54a86",
+        "type": "ui_numeric",
+        "z": "41d31b3f2b597507",
+        "name": "",
+        "label": "Duty",
+        "tooltip": "",
+        "group": "55f7f0c1a0b2eb48",
+        "order": 11,
+        "width": 0,
+        "height": 0,
+        "wrap": false,
+        "passthru": true,
+        "topic": "topic",
+        "topicType": "msg",
+        "format": "{{value}}",
+        "min": 0,
+        "max": 10,
+        "step": 1,
+        "className": "",
+        "x": 250,
+        "y": 660,
+        "wires": [
+            [
+                "f01ad233e999ddb0"
+            ]
+        ]
+    },
+    {
+        "id": "dcfdc804db929cb6",
+        "type": "function",
+        "z": "41d31b3f2b597507",
+        "name": "scale duty",
+        "func": "msg.payload = Math.round(msg.payload.duty / 65535. * 100)\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 110,
+        "y": 660,
+        "wires": [
+            [
+                "e628625056c54a86"
+            ]
+        ]
+    },
+    {
+        "id": "aa95d8c0f6c009d9",
+        "type": "change",
+        "z": "41d31b3f2b597507",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload,pwmfreq",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 130,
+        "y": 700,
+        "wires": [
+            [
+                "418bfc3ec9cc0123"
+            ]
+        ]
+    },
+    {
+        "id": "ec84ac1fbb399c73",
+        "type": "ui_chart",
+        "z": "41d31b3f2b597507",
+        "g": "a23d032073324366",
+        "name": "",
+        "group": "2a03492025b0a7d0",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "label": "Raumtemperatur und Taupunkt",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "7",
+        "removeOlderPoints": "",
+        "removeOlderUnit": "86400",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 870,
+        "y": 380,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c301d7cae13ab853",
+        "type": "ui_template",
+        "z": "41d31b3f2b597507",
+        "g": "a23d032073324366",
+        "group": "07f72b68a61aafdd",
+        "name": "",
+        "order": 1,
+        "width": 6,
+        "height": 5,
+        "format": "<div ng-bind-html=\"msg.payload\"></div>\n<img src=\"https://kunden.eye.ch/swissgen/rebstein/rebstein.gif\" style=\"width: 80px; height: auto;\"> Rebstein",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 860,
+        "y": 600,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6504c39deee5a433",
+        "type": "debug",
+        "z": "41d31b3f2b597507",
+        "name": "debug 6",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1040,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "6f72196181a1189f",
+        "type": "debug",
+        "z": "41d31b3f2b597507",
+        "name": "debug 8",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1040,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "2e3eac86b5d75c8b",
+        "type": "link in",
+        "z": "41d31b3f2b597507",
+        "name": "RebsteinDashboard",
+        "links": [
+            "42adc0e8bd278698"
+        ],
+        "x": 295,
+        "y": 200,
+        "wires": [
+            [
+                "ecbf76c98cbea256",
+                "d1c2607bd6357f99",
+                "6ca125a8b3eb7a2c",
+                "de6549beb6abfbdb",
+                "c785ae23d8267b8f",
+                "dcfdc804db929cb6",
+                "aa95d8c0f6c009d9",
+                "a22ead9639139b7b",
+                "6fdf62f37ed0858f"
+            ]
+        ]
+    },
+    {
+        "id": "7c4ba9f641b4eb22",
+        "type": "debug",
+        "z": "41d31b3f2b597507",
+        "name": "debug 10",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 460,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "6fdf62f37ed0858f",
+        "type": "delay",
+        "z": "41d31b3f2b597507",
+        "name": "",
+        "pauseType": "rate",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "30",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": true,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 310,
+        "y": 520,
+        "wires": [
+            [
+                "2af068d5a1fef1ce"
+            ]
+        ]
+    },
+    {
+        "id": "9a15d684a0ad2601",
+        "type": "http request",
+        "z": "8bc0733bd2e3a96f",
+        "name": "",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://api.openweathermap.org/data/2.5/weather?lat=47.39852&lon=9.58255&units=metric&appid=a66d2ddf4a9011dee5cfd244832149f0",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 110,
+        "y": 200,
+        "wires": [
+            [
+                "98bcbd500d53b0e8"
+            ]
+        ]
+    },
+    {
+        "id": "a27708e18da96a0f",
+        "type": "inject",
+        "z": "8bc0733bd2e3a96f",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "600",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 110,
+        "y": 140,
+        "wires": [
+            [
+                "9a15d684a0ad2601"
+            ]
+        ]
+    },
+    {
+        "id": "98bcbd500d53b0e8",
+        "type": "json",
+        "z": "8bc0733bd2e3a96f",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 130,
+        "y": 300,
+        "wires": [
+            [
+                "1079871569b441ec",
+                "d0b691bd3cd1fe2e",
+                "efe9d6e5ab1eea52",
+                "e711aee13179e534",
+                "3f1ddc2e564c87ae",
+                "44bb483a39897dea",
+                "85508a5787fb9242",
+                "4814de01d4bb7066"
+            ]
+        ]
+    },
+    {
+        "id": "1079871569b441ec",
+        "type": "ui_gauge",
+        "z": "8bc0733bd2e3a96f",
+        "g": "60af27fbe2dcd6b9",
+        "name": "",
+        "group": "6673737cdfac0258",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Temperatur",
+        "label": "units",
+        "format": "{{payload.main.temp}}",
+        "min": "-20",
+        "max": "40",
+        "colors": [
+            "#3000b3",
+            "#00e66f",
+            "#ca3838"
+        ],
+        "seg1": "10",
+        "seg2": "20",
+        "diff": false,
+        "className": "",
+        "x": 430,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "d0b691bd3cd1fe2e",
+        "type": "ui_gauge",
+        "z": "8bc0733bd2e3a96f",
+        "g": "60af27fbe2dcd6b9",
+        "name": "",
+        "group": "6673737cdfac0258",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Luftdruck",
+        "label": "units",
+        "format": "{{payload.main.pressure}}",
+        "min": "990",
+        "max": "1100",
+        "colors": [
+            "#3000b3",
+            "#00e66f",
+            "#f2fd4e"
+        ],
+        "seg1": "1010",
+        "seg2": "1020",
+        "className": "",
+        "x": 420,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "efe9d6e5ab1eea52",
+        "type": "ui_gauge",
+        "z": "8bc0733bd2e3a96f",
+        "g": "60af27fbe2dcd6b9",
+        "name": "",
+        "group": "6673737cdfac0258",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Feuchtigkeit",
+        "label": "%",
+        "format": "{{payload.main.humidity}}",
+        "min": "0",
+        "max": "100",
+        "colors": [
+            "#dbf425",
+            "#00e66f",
+            "#523acb"
+        ],
+        "seg1": "30",
+        "seg2": "60",
+        "className": "",
+        "x": 430,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "e711aee13179e534",
+        "type": "ui_gauge",
+        "z": "8bc0733bd2e3a96f",
+        "g": "60af27fbe2dcd6b9",
+        "name": "",
+        "group": "6673737cdfac0258",
+        "order": 6,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Bewölkung",
+        "label": "%",
+        "format": "{{payload.clouds.all}}",
+        "min": "0",
+        "max": "100",
+        "colors": [
+            "#574f6d",
+            "#d6dcd9",
+            "#673ef9"
+        ],
+        "seg1": "10",
+        "seg2": "20",
+        "className": "",
+        "x": 430,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "3f1ddc2e564c87ae",
+        "type": "function",
+        "z": "8bc0733bd2e3a96f",
+        "name": "Extract Fields",
+        "func": "var msg1 = {};\nmsg1.payload = msg.payload.main.temp;\nmsg1.topic = \"Akt. Temp\";\nvar msg2 = {};\nmsg2.payload = msg.payload.main.temp_min;\nmsg2.topic = \"Min. Temp\";\nvar msg3 = {};\nmsg3.payload = msg.payload.main.temp_max\nmsg3.topic = \"Max. Temp\";\nvar msg4 = {};\nmsg4.payload = msg.payload.main.pressure;\nmsg4.topic = \"Luftdruck\";\nvar msg5 = {};\nmsg5.payload = msg.payload.main.humidity;\nmsg5.topic = \"Feuchtigkeit\";\nvar msg6 = {};\nmsg6.payload = msg.payload.clouds.all;\nmsg6.topic = \"Wolken\";\n\n\nreturn [msg1,msg2,msg3,msg4,msg5,msg6];",
+        "outputs": 6,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 200,
+        "y": 460,
+        "wires": [
+            [
+                "b99f656e30a5af6d"
+            ],
+            [
+                "b99f656e30a5af6d"
+            ],
+            [
+                "b99f656e30a5af6d"
+            ],
+            [
+                "33699b2c056d3d8e"
+            ],
+            [
+                "e2325500109c971d"
+            ],
+            [
+                "14938a816cc46ca0"
+            ]
+        ],
+        "inputLabels": [
+            "Json Weathermap"
+        ],
+        "outputLabels": [
+            "temp",
+            "tempmin",
+            "tempmax",
+            "pressure",
+            "humdity",
+            "clouds"
+        ]
+    },
+    {
+        "id": "6c76b8d306dc8a7e",
+        "type": "ui_button",
+        "z": "8bc0733bd2e3a96f",
+        "name": "",
+        "group": "adcd52e03eaf926b",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Löschen",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "[]",
+        "payloadType": "json",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 180,
+        "y": 580,
+        "wires": [
+            [
+                "33699b2c056d3d8e",
+                "e2325500109c971d",
+                "14938a816cc46ca0",
+                "b99f656e30a5af6d"
+            ]
+        ]
+    },
+    {
+        "id": "33699b2c056d3d8e",
+        "type": "ui_chart",
+        "z": "8bc0733bd2e3a96f",
+        "g": "0940d0a25cbaf43e",
+        "name": "",
+        "group": "adcd52e03eaf926b",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "label": "Luftdruck",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "2",
+        "removeOlderPoints": "3000",
+        "removeOlderUnit": "86400",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 420,
+        "y": 580,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e2325500109c971d",
+        "type": "ui_chart",
+        "z": "8bc0733bd2e3a96f",
+        "g": "0940d0a25cbaf43e",
+        "name": "",
+        "group": "adcd52e03eaf926b",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "label": "Feuchtigkeit",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "2",
+        "removeOlderPoints": "3000",
+        "removeOlderUnit": "86400",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 430,
+        "y": 620,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "14938a816cc46ca0",
+        "type": "ui_chart",
+        "z": "8bc0733bd2e3a96f",
+        "g": "0940d0a25cbaf43e",
+        "name": "",
+        "group": "adcd52e03eaf926b",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "label": "Bewölkung",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "2",
+        "removeOlderPoints": "3000",
+        "removeOlderUnit": "86400",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 430,
+        "y": 660,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7ba64f540b7ec487",
+        "type": "ui_text",
+        "z": "8bc0733bd2e3a96f",
+        "g": "60af27fbe2dcd6b9",
+        "group": "6673737cdfac0258",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Datum",
+        "format": "{{payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": "",
+        "color": "#000000",
+        "x": 410,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "b99f656e30a5af6d",
+        "type": "ui_chart",
+        "z": "8bc0733bd2e3a96f",
+        "g": "0940d0a25cbaf43e",
+        "name": "",
+        "group": "adcd52e03eaf926b",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "label": "Temperatur",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "2",
+        "removeOlderPoints": "3000",
+        "removeOlderUnit": "86400",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 430,
+        "y": 540,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "44bb483a39897dea",
+        "type": "ui_gauge",
+        "z": "8bc0733bd2e3a96f",
+        "g": "60af27fbe2dcd6b9",
+        "name": "",
+        "group": "6673737cdfac0258",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "gtype": "compass",
+        "title": "Windrichtung",
+        "label": "°",
+        "format": "{{payload.wind.deg}}",
+        "min": 0,
+        "max": "360",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 430,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "85508a5787fb9242",
+        "type": "function",
+        "z": "8bc0733bd2e3a96f",
+        "name": "ZeitString",
+        "func": "var dateString = new Date(msg.payload.dt*1000).toLocaleDateString('de-CH', { timeZone: \"Europe/Budapest\" })+\" \";\ndateString += new Date(msg.payload.dt * 1000).toLocaleTimeString('de-CH', { timeZone: \"Europe/Budapest\" });\nmsg.payload=dateString;\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 320,
+        "y": 140,
+        "wires": [
+            [
+                "7ba64f540b7ec487"
+            ]
+        ]
+    },
+    {
+        "id": "4814de01d4bb7066",
+        "type": "debug",
+        "z": "8bc0733bd2e3a96f",
+        "name": "debug 11",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 640,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "596acd2edb2a7999",
+        "type": "ui_gauge",
+        "z": "1f5402aaad6b33ec",
+        "g": "700431c0f25f1dd6",
+        "name": "",
+        "group": "b24e1031529d892e",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Temperatur",
+        "label": "units",
+        "format": "{{payload.station_list[47].temperature}}",
+        "min": "-20",
+        "max": "40",
+        "colors": [
+            "#3000b3",
+            "#00e66f",
+            "#ca3838"
+        ],
+        "seg1": "10",
+        "seg2": "20",
+        "diff": false,
+        "className": "",
+        "x": 530,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "187177def4df8e41",
+        "type": "ui_gauge",
+        "z": "1f5402aaad6b33ec",
+        "g": "700431c0f25f1dd6",
+        "name": "",
+        "group": "b24e1031529d892e",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Luftdruck",
+        "label": "units",
+        "format": "{{payload.station_list[47].airpressure}}",
+        "min": "990",
+        "max": "1100",
+        "colors": [
+            "#3000b3",
+            "#00e66f",
+            "#f2fd4e"
+        ],
+        "seg1": "1010",
+        "seg2": "1020",
+        "className": "",
+        "x": 520,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "b74cb0c79d699367",
+        "type": "ui_gauge",
+        "z": "1f5402aaad6b33ec",
+        "g": "700431c0f25f1dd6",
+        "name": "",
+        "group": "b24e1031529d892e",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Feuchtigkeit",
+        "label": "%",
+        "format": "{{payload.station_list[47].humidity}}",
+        "min": "0",
+        "max": "100",
+        "colors": [
+            "#dbf425",
+            "#00e66f",
+            "#523acb"
+        ],
+        "seg1": "30",
+        "seg2": "60",
+        "className": "",
+        "x": 530,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "abf2be406058a518",
+        "type": "ui_gauge",
+        "z": "1f5402aaad6b33ec",
+        "g": "700431c0f25f1dd6",
+        "name": "",
+        "group": "b24e1031529d892e",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Bewölkung",
+        "label": "%",
+        "format": "{{payload}}",
+        "min": "0",
+        "max": "100",
+        "colors": [
+            "#574f6d",
+            "#d6dcd9",
+            "#673ef9"
+        ],
+        "seg1": "10",
+        "seg2": "20",
+        "diff": false,
+        "className": "",
+        "x": 530,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "77f90ab3191310bd",
+        "type": "function",
+        "z": "1f5402aaad6b33ec",
+        "name": "Extract Fields",
+        "func": "function unixTimeToSQLTimestamp(unixTime) {\n    // Create a new Date object using the Unix time\n    const date = new Date(unixTime);\n\n    // Extract year, month, day, hour, minute, and second components\n    const year = date.getFullYear();\n    const month = String(date.getMonth() + 1).padStart(2, '0');\n    const day = String(date.getDate()).padStart(2, '0');\n    const hours = String(date.getHours()).padStart(2, '0');\n    const minutes = String(date.getMinutes()).padStart(2, '0');\n    const seconds = String(date.getSeconds()).padStart(2, '0');\n\n    // Format the SQL timestamp\n    const sqlTimestamp = `${year}-${month}-${day} ${hours}:${minutes}:${seconds}`;\n\n    return sqlTimestamp;\n}\nvar msg1 = {};\nmsg1.payload = msg.payload.station_list[47].temperature;\nmsg1.topic = \"Akt. Temp\";\nvar msg2 = {};\nmsg2.payload = 0;\nmsg2.topic = \"Min. Temp\";\nvar msg3 = {};\nmsg3.payload = 40\nmsg3.topic = \"Max. Temp\";\nvar msg4 = {};\nmsg4.payload = msg.payload.station_list[47].airpressure;\nmsg4.topic = \"Luftdruck\";\nvar msg5 = {};\nmsg5.payload = msg.payload.station_list[47].humidity;\nmsg5.topic = \"Feuchtigkeit\";\nvar msg6 = {};\nmsg6.payload = (100-msg.payload.station_list[47].sun);\nmsg6.topic = \"Wolken\";\nvar msg7 = {};\nmsg7.payload = (msg.payload.station_list[47].wind_speed);\nmsg7.topic = \"Wind\";\nvar msg8 = {};\nmsg8.payload = (msg.payload.station_list[47].windpeak);\nmsg8.topic = \"Wolken\";\nvar msg9 = {}\nmsg9.topic = \"Uhrzeit\"\n// Load moment library\n// Set the converted string as the payload of the message\n\nmsg9.payload=unixTimeToSQLTimestamp(msg.payload.station_list[47].weather_timestamp * 1000)\nnode.warn(msg9.payload)\n\nreturn [msg1,msg2,msg3,msg4,msg5,msg6,msg7,msg8,msg9];",
+        "outputs": 9,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 140,
+        "y": 400,
+        "wires": [
+            [
+                "34624b7e73d3e93b"
+            ],
+            [],
+            [],
+            [
+                "27d55c4553c2eaf8"
+            ],
+            [
+                "bb626325ab6bac33"
+            ],
+            [
+                "b66fe5888fdcbd2f",
+                "abf2be406058a518"
+            ],
+            [
+                "65eeefeb30a632a3"
+            ],
+            [
+                "ba9a997ba99fc616"
+            ],
+            [
+                "ad8d408bdd6d3daa",
+                "14b58b4d482cc0e2"
+            ]
+        ],
+        "inputLabels": [
+            "Json Weathermap"
+        ],
+        "outputLabels": [
+            "temp",
+            "tempmin",
+            "tempmax",
+            "pressure",
+            "humdity",
+            "clouds",
+            "wind",
+            "windpeak",
+            "date"
+        ]
+    },
+    {
+        "id": "71f2133f9ed72421",
+        "type": "ui_button",
+        "z": "1f5402aaad6b33ec",
+        "g": "fdbf9db122915c50",
+        "name": "",
+        "group": "33bc0abd04b4b4db",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Löschen",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "[]",
+        "payloadType": "json",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 360,
+        "y": 660,
+        "wires": [
+            [
+                "27d55c4553c2eaf8",
+                "bb626325ab6bac33",
+                "b66fe5888fdcbd2f",
+                "34624b7e73d3e93b",
+                "65eeefeb30a632a3",
+                "ba9a997ba99fc616"
+            ]
+        ]
+    },
+    {
+        "id": "27d55c4553c2eaf8",
+        "type": "ui_chart",
+        "z": "1f5402aaad6b33ec",
+        "g": "fdbf9db122915c50",
+        "name": "",
+        "group": "33bc0abd04b4b4db",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "label": "Luftdruck",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "2",
+        "removeOlderPoints": "3000",
+        "removeOlderUnit": "86400",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 540,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "bb626325ab6bac33",
+        "type": "ui_chart",
+        "z": "1f5402aaad6b33ec",
+        "g": "fdbf9db122915c50",
+        "name": "",
+        "group": "33bc0abd04b4b4db",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "label": "Feuchtigkeit",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "2",
+        "removeOlderPoints": "3000",
+        "removeOlderUnit": "86400",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 550,
+        "y": 540,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b66fe5888fdcbd2f",
+        "type": "ui_chart",
+        "z": "1f5402aaad6b33ec",
+        "g": "fdbf9db122915c50",
+        "name": "",
+        "group": "33bc0abd04b4b4db",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "label": "Bewölkung",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "2",
+        "removeOlderPoints": "3000",
+        "removeOlderUnit": "86400",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 550,
+        "y": 580,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ad8d408bdd6d3daa",
+        "type": "ui_text",
+        "z": "1f5402aaad6b33ec",
+        "g": "700431c0f25f1dd6",
+        "group": "b24e1031529d892e",
+        "order": 10,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Datum",
+        "format": "{{payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": "",
+        "color": "#000000",
+        "x": 510,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "34624b7e73d3e93b",
+        "type": "ui_chart",
+        "z": "1f5402aaad6b33ec",
+        "g": "fdbf9db122915c50",
+        "name": "",
+        "group": "33bc0abd04b4b4db",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "label": "Temperatur",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "2",
+        "removeOlderPoints": "3000",
+        "removeOlderUnit": "86400",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 550,
+        "y": 460,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "77a150502b0fd4d8",
+        "type": "ui_gauge",
+        "z": "1f5402aaad6b33ec",
+        "g": "700431c0f25f1dd6",
+        "name": "",
+        "group": "b24e1031529d892e",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Windgeschwindigkeit",
+        "label": "m/s",
+        "format": "{{payload.station_list[47].wind_speed}}",
+        "min": "0",
+        "max": "100",
+        "colors": [
+            "#dbf425",
+            "#00e66f",
+            "#523acb"
+        ],
+        "seg1": "30",
+        "seg2": "60",
+        "className": "",
+        "x": 560,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "3824f6b4836e96e9",
+        "type": "ui_gauge",
+        "z": "1f5402aaad6b33ec",
+        "g": "700431c0f25f1dd6",
+        "name": "",
+        "group": "b24e1031529d892e",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Böen",
+        "label": "m/s",
+        "format": "{{payload.station_list[47].windpeak}}",
+        "min": "0",
+        "max": "20",
+        "colors": [
+            "#dbf425",
+            "#00e66f",
+            "#523acb"
+        ],
+        "seg1": "30",
+        "seg2": "60",
+        "className": "",
+        "x": 510,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "65eeefeb30a632a3",
+        "type": "ui_chart",
+        "z": "1f5402aaad6b33ec",
+        "g": "fdbf9db122915c50",
+        "name": "",
+        "group": "33bc0abd04b4b4db",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "label": "Windgeschwindigkeit",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "2",
+        "removeOlderPoints": "3000",
+        "removeOlderUnit": "86400",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 580,
+        "y": 640,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ba9a997ba99fc616",
+        "type": "ui_chart",
+        "z": "1f5402aaad6b33ec",
+        "g": "fdbf9db122915c50",
+        "name": "",
+        "group": "33bc0abd04b4b4db",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "label": "Böen",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "2",
+        "removeOlderPoints": "3000",
+        "removeOlderUnit": "86400",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 530,
+        "y": 680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d847b4f46af2d213",
+        "type": "link in",
+        "z": "1f5402aaad6b33ec",
+        "name": "WetterCDN",
+        "links": [
+            "f51f2768753da105"
+        ],
+        "x": 45,
+        "y": 240,
+        "wires": [
+            [
+                "77f90ab3191310bd",
+                "3824f6b4836e96e9",
+                "77a150502b0fd4d8",
+                "b74cb0c79d699367",
+                "187177def4df8e41",
+                "596acd2edb2a7999"
+            ]
+        ]
+    },
+    {
+        "id": "14b58b4d482cc0e2",
+        "type": "debug",
+        "z": "1f5402aaad6b33ec",
+        "g": "fdbf9db122915c50",
+        "name": "debug 9",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 540,
+        "y": 420,
+        "wires": []
+    }
+]
